@@ -1,5 +1,5 @@
 def ErrorMessage():
-     return "Valor introducido no es un número"
+    return "Valor introducido no es un número"
 
 userNumberStr = input("Introduce un número: ")
 contador = 0
@@ -18,4 +18,3 @@ except ValueError:
 
     
 
-   
